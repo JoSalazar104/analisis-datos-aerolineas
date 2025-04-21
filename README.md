@@ -1,6 +1,6 @@
 # ✈️ Análisis de Datos de Aerolíneas – Kaggle Dataset
 
-Este proyecto analiza el comportamiento de vuelos en Estados Unidos utilizando un dataset de Kaggle. El objetivo es identificar patrones, demoras frecuentes, aerolíneas con mejor desempeño y rutas más activas mediante análisis exploratorio de datos (EDA) y visualizaciones.
+Este proyecto analiza el comportamiento de vuelos en Estados Unidos utilizando un dataset de Kaggle. El objetivo es identificar patrones, demoras frecuentes, aerolíneas con mejor desempeño y rutas más activas mediante análisis exploratorio de datos y visualizaciones.
 
 ## 📊 Dataset
 
